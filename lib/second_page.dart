@@ -28,7 +28,7 @@ class _SecondPageState extends State<SecondPage> {
       backgroundColor: Colors.grey[800],
       body: Center(
         child: Text(
-          'Welcome, ${widget.username}!',
+          'Hello, ${widget.username}!',
           style: const TextStyle(
             color: Colors.white,
             fontSize: 24,
